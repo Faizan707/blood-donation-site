@@ -1,0 +1,35 @@
+/* ContactUs.css */
+
+.contact-us-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black;
+    margin-top: 20px;
+  }
+  
+  .contact-us-container label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .contact-us-container input,
+  .contact-us-container textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+  }
+  
+  .contact-us-container button {
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .contact-us-container button:hover {
+    background-color: #0056b3;
+  }
+  

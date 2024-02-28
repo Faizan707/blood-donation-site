@@ -1,0 +1,29 @@
+
+.donar-list-container {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .donar-list-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .donar-list-container table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .donar-list-container th, .donar-list-container td {
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
+  
+  .donar-list-container th {
+    background-color: red;
+    font-weight: bold;
+  }
+  
+  .donar-list-container tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  

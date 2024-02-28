@@ -1,0 +1,42 @@
+
+.donar-container {
+    max-width: 400px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .donar-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .donar-container form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .donar-container label {
+    margin-bottom: 10px;
+  }
+  
+  .donar-container input {
+    padding: 8px;
+    margin-bottom: 15px;
+    width: 100%;
+  }
+  
+  .donar-container button {
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .donar-container button:hover {
+    background-color: #0056b3;
+  }
+  
